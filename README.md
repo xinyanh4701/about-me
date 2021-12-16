@@ -30,5 +30,5 @@ I was born in Taishan, Guandong, China. I am currently enrolled in the **[Softwa
 #### A Thing I Learned Today
 
 * Italicizing a word can be done by inserting an underscore ( _ ) outside of the word.
-  * Important! There needs to be no space between them.
+  * **Important!** There needs to be no space between them.
 
