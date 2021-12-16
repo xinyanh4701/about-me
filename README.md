@@ -28,3 +28,6 @@ I was born in Taishan, Guandong, China. I am currently enrolled in the **[Softwa
 * [Invincible](https://www.youtube.com/watch?v=J2X5mJ3HDYE)  
 
 #### A Thing I Learned Today
+
+* Italicizing a word can be done by inserting an underscore ( _ ) outside of the word.
+
