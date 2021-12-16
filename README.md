@@ -22,3 +22,4 @@ I was born in Taishan, Guandong, China. I am currently enrolled in the **[Softwa
 ---
 
 #### Here Is a List of Some of My Favorite Music Videos: 
+* [Fearless pt.II (feat. Chris Linton)](https://www.youtube.com/watch?v=S19UcWdOA-I)
