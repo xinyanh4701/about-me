@@ -18,3 +18,6 @@ I was born in Taishan, Guandong, China. I am currently enrolled in the **[Softwa
 7) Lunch
 8) Spanish 
 9) Yoga (9th period PE)
+
+---
+
