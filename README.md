@@ -3,12 +3,12 @@
 
 ### Email: xinyanh4701@hstat.org
 
-High School Enrollment: High School of Telecommunication Art and Technology
+### High School Enrollment: High School of Telecommunication Art and Technology
 
-Bio: 
+### Bio: 
 I was born in Taishan, Guandong, China. I am currently enrolled in the Software Engineering Program (SEP) that my high school currently offers. I love to watch tech videos on YouTube. I have two younger sisters that annoy me 24/7. Whenever I have free time, I would play Roblox.      
 
-Schedule:
+### Schedule:
 1) English
 2) Global History
 3) Chemistry
