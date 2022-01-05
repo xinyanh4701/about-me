@@ -32,3 +32,4 @@ I was born in Taishan, Guandong, China. I am currently enrolled in the **[Softwa
 * _Italicizing_ a word can be done by inserting an underscore ( _ ) outside of the word.
   * **Important!** There needs to be no space between them.
 
+Reviewed by Ling Ying
